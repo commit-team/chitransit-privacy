@@ -1,0 +1,7 @@
+# GitHub Pages builds index.md with Jekyll and this theme. Markdown stays the source, so
+# updating the policy is editing one file - no build step to run and nothing to compile
+# locally. jekyll-theme-minimal is one of the themes GitHub supports directly, which is why
+# it is used here rather than anything prettier that would need a Gemfile.
+theme: jekyll-theme-minimal
+title: ChiTransit Privacy Policy
+description: How the ChiTransit app handles information
