@@ -1,7 +1,13 @@
-# GitHub Pages builds index.md with Jekyll and this theme. Markdown stays the source, so
-# updating the policy is editing one file - no build step to run and nothing to compile
+# GitHub Pages builds the Markdown here with Jekyll and this theme. Markdown stays the source,
+# so updating a document is editing one file - no build step to run and nothing to compile
 # locally. jekyll-theme-minimal is one of the themes GitHub supports directly, which is why
 # it is used here rather than anything prettier that would need a Gemfile.
+#
+# `title` and `description` are SITE-level and this theme prints them in the header of every
+# page, so neither can name a single document. They used to say "ChiTransit Privacy Policy",
+# which was correct while that was the only page and became wrong the moment the terms were
+# added - the Terms of Service would have rendered under a "Privacy Policy" heading. Each
+# document names itself in its own first line instead.
 theme: jekyll-theme-minimal
-title: ChiTransit Privacy Policy
-description: How the ChiTransit app handles information
+title: ChiTransit
+description: Privacy Policy and Terms of Service

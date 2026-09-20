@@ -1,10 +1,12 @@
 # ChiTransit Privacy Policy
 
-**Effective September 1, 2026**
+**Effective September 20, 2026**
 
 ChiTransit shows live Chicago Transit Authority train positions, arrival times, service
 alerts, and journey plans. This policy explains what the app does with information. It is
 short because the app does very little.
+
+**Privacy Policy** &middot; [Terms of Service](https://commit-team.github.io/chitransit-privacy/terms/)
 
 ## The short version
 
@@ -83,6 +85,14 @@ phone and under your control.
 
 If this policy changes, the effective date above changes with it, and the new version is
 published here before the change ships in a release.
+
+## Terms of Service
+
+Using ChiTransit is also covered by the
+[Terms of Service](https://commit-team.github.io/chitransit-privacy/terms/), which explains
+what the app promises about transit information — in short, that arrival times are predictions
+rather than guarantees — and states that ChiTransit is not affiliated with the Chicago Transit
+Authority.
 
 ## Contact
 
