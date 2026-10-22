@@ -2,28 +2,32 @@
 permalink: /terms/
 ---
 
-# ChiTransit Terms of Service
+# Loopgoer Terms of Service
 
-**Effective September 20, 2026**
+**Effective October 21, 2026**
 
-These terms cover your use of the ChiTransit mobile app and the service behind it. They are
+Loopgoer is operated by **Commit Ventures LLC**, an Illinois limited liability company
+("Commit Ventures", "we", "us"). These terms are an agreement between you and Commit Ventures LLC,
+and cover your use of the Loopgoer mobile app and the service behind it. They are
 short because the app is free, has no accounts, and asks nothing of you.
 
-By using ChiTransit you accept these terms. If you do not accept them, do not use the app.
+By using Loopgoer you accept these terms. If you do not accept them, do not use the app.
 
 [Privacy Policy](https://commit-team.github.io/chitransit-privacy/) &middot; **Terms of Service**
 
 ## The short version
 
-- ChiTransit is **free**, and provided as-is.
+- Loopgoer is operated by **Commit Ventures LLC**.
+- Loopgoer is **free**, and provided as-is.
 - **Train times are predictions, not promises.** Do not rely on them where being wrong matters.
-- ChiTransit is **not affiliated with the Chicago Transit Authority**.
+- Loopgoer is **not affiliated with the Chicago Transit Authority**.
 - There are no accounts, so there is nothing to terminate and nothing to lose.
 
 ## Not affiliated with the CTA
 
-ChiTransit is an independent app. It is **not affiliated with, endorsed by, sponsored by, or
-approved by the Chicago Transit Authority**.
+Loopgoer is an independent app operated by Commit Ventures LLC. Loopgoer and Commit Ventures
+LLC are **not affiliated with, endorsed by, sponsored by, or approved by the Chicago Transit
+Authority**.
 
 "CTA", "Chicago Transit Authority", "Ventra", the 'L' and the names of the eight rail lines are
 the property of their respective owners. They appear in this app to describe the transit system
@@ -42,7 +46,7 @@ happening on the platform. Specifically:
 
 - CTA's predictions are generated from track-circuit occupancy. Its trains carry no GPS, and a
   position can be up to about half a minute old before we ever receive it.
-- When live data runs out, times fall back to the published timetable. ChiTransit marks these
+- When live data runs out, times fall back to the published timetable. Loopgoer marks these
   as scheduled where they appear — **a scheduled time is not a prediction that a train is
   coming.**
 - Journey plans are built from the CTA's static schedule. They do not know about a train that
@@ -51,13 +55,13 @@ happening on the platform. Specifically:
 - Step-free ("accessible") journey filtering relies on CTA's own accessibility data for each
   station. A lift that is listed as present may still be out of service.
 
-**Do not use ChiTransit where being wrong has consequences you cannot accept** — catching the
+**Do not use Loopgoer where being wrong has consequences you cannot accept** — catching the
 last train of the night, making a medical appointment, reaching an airport for a flight, or any
 situation affecting your safety. Check CTA's own channels, and leave margin.
 
 ## Using the app
 
-You may use ChiTransit for your own travel, free of charge.
+You may use Loopgoer for your own travel, free of charge.
 
 Please do not:
 
@@ -74,7 +78,7 @@ are no accounts, this applies to traffic rather than to a person.
 
 ## No accounts, nothing stored about you
 
-ChiTransit has no sign-up, no login, and no profile. Saved stations and preferences live in your
+Loopgoer has no sign-up, no login, and no profile. Saved stations and preferences live in your
 phone's own storage and are removed when you uninstall the app.
 
 What the app does and does not handle is set out in full in the
@@ -83,7 +87,7 @@ terms.
 
 ## The app is provided as-is
 
-ChiTransit is provided **"as is" and "as available"**, without warranties of any kind, whether
+Loopgoer is provided **"as is" and "as available"**, without warranties of any kind, whether
 express or implied — including any implied warranty of merchantability, fitness for a particular
 purpose, accuracy, or non-infringement.
 
@@ -96,7 +100,8 @@ you have that cannot be limited.
 
 ## Limits on liability
 
-To the fullest extent the law allows, ChiTransit and its developers are not liable for any
+To the fullest extent the law allows, Commit Ventures LLC and its members, employees and
+contractors are not liable for any
 indirect, incidental, special, consequential or punitive damages, or for any missed connection,
 missed appointment, delay, lost time, lost opportunity, or cost, arising from your use of the
 app or from reliance on the information it shows.
@@ -106,7 +111,7 @@ for fraud, or for anything else that cannot lawfully be excluded.
 
 ## Changes to the app and the service
 
-ChiTransit is developed by a small team and may change. Features can be added, altered or
+Loopgoer is developed by a small team at Commit Ventures LLC and may change. Features can be added, altered or
 removed, and the service behind the app may be interrupted for maintenance, or discontinued.
 We will not always be able to give notice.
 
@@ -123,10 +128,10 @@ that means you accept the revised terms.
 ## Governing law
 
 These terms are governed by the laws of the **State of Illinois, United States**, without regard
-to its conflict-of-law rules. ChiTransit is operated from Chicago, Illinois, and the service and
-the data it handles are processed in the United States.
+to its conflict-of-law rules. Loopgoer is operated by Commit Ventures LLC from Chicago, Illinois, and
+the service and the data it handles are processed in the United States.
 
 ## Contact
 
-Questions about these terms can be sent to the developer email address shown on the app's Google
+Questions about these terms can be sent to Commit Ventures LLC at the developer email address shown on the app's Google
 Play listing, under "App support".

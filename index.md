@@ -1,33 +1,34 @@
-# ChiTransit Privacy Policy
+# Loopgoer Privacy Policy
 
-**Effective September 20, 2026**
+**Effective October 21, 2026**
 
-ChiTransit shows live Chicago Transit Authority train positions, arrival times, service
-alerts, and journey plans. This policy explains what the app does with information. It is
+Loopgoer is operated by **Commit Ventures LLC**, an Illinois limited liability company
+("Commit Ventures", "we", "us"). It shows live Chicago Transit Authority train positions,
+arrival times, service alerts, and journey plans. This policy explains what the app does with information. It is
 short because the app does very little.
 
 **Privacy Policy** &middot; [Terms of Service](https://commit-team.github.io/chitransit-privacy/terms/)
 
 ## The short version
 
-**ChiTransit has no accounts and collects no personal information.** There is nothing to sign
+**Loopgoer has no accounts and collects no personal information.** There is nothing to sign
 in to, nothing to sign up for, and no profile. Your location is used on your device and is
 never sent to us. Saved stations stay on your phone.
 
 ## We do not collect
 
 - Names, email addresses, phone numbers, or account identifiers — the app has no accounts.
-- Advertising identifiers. ChiTransit contains no advertising, analytics, attribution, or
+- Advertising identifiers. Loopgoer contains no advertising, analytics, attribution, or
   crash-reporting software.
 - Contacts, photos, camera, microphone, calendar, or files.
-- Biometric identifiers or information of any kind. Nothing in ChiTransit collects, stores,
+- Biometric identifiers or information of any kind. Nothing in Loopgoer collects, stores,
   or uses biometrics, so the Illinois Biometric Information Privacy Act does not apply to it.
 - Any record, on any server of ours, of the stations you view, the trips you plan, or where
   you have been.
 
 ## Location
 
-ChiTransit asks for **approximate and precise location while you are using the app**. It never
+Loopgoer asks for **approximate and precise location while you are using the app**. It never
 asks for background location and cannot access your location when the app is closed.
 
 Location is used for two things, and **both are computed entirely on your device**:
@@ -59,7 +60,7 @@ never done so.
 
 | Service | What it receives | Why |
 |---|---|---|
-| Render (United States) | Requests to the ChiTransit service, with IP address at the network level | Runs our backend |
+| Render (United States) | Requests to the Loopgoer service, with IP address at the network level | Runs our backend |
 | Neon (United States) | CTA station and timetable reference data only — nothing about you | Stores transit data |
 | MapTiler | Requests for map tiles covering the area you are viewing, with IP address | Draws the base map |
 | Chicago Transit Authority | Nothing about you — our servers ask, your device never does | Source of live transit data |
@@ -69,7 +70,7 @@ Your device contacts MapTiler directly for map imagery. Their policy is at
 
 ## Children
 
-ChiTransit is a general-audience transit app, not directed at children, and collects no
+Loopgoer is a general-audience transit app, not directed at children, and collects no
 personal information from anyone — children included.
 
 ## Your choices
@@ -78,7 +79,7 @@ personal information from anyone — children included.
 - **Stored data:** clearing the app's storage or uninstalling removes everything it kept.
 
 Because we hold no personal information about you, there is nothing for us to look up, export,
-correct, or delete on request — everything ChiTransit keeps about you is already on your own
+correct, or delete on request — everything Loopgoer keeps about you is already on your own
 phone and under your control.
 
 ## Changes
@@ -88,16 +89,16 @@ published here before the change ships in a release.
 
 ## Terms of Service
 
-Using ChiTransit is also covered by the
+Using Loopgoer is also covered by the
 [Terms of Service](https://commit-team.github.io/chitransit-privacy/terms/), which explains
 what the app promises about transit information — in short, that arrival times are predictions
-rather than guarantees — and states that ChiTransit is not affiliated with the Chicago Transit
+rather than guarantees — and states that Loopgoer is not affiliated with the Chicago Transit
 Authority.
 
 ## Contact
 
-ChiTransit is operated from **Chicago, Illinois, United States**, and all data described above
-is processed in the United States.
+Loopgoer is operated by **Commit Ventures LLC** from **Chicago, Illinois, United States**, and
+all data described above is processed in the United States.
 
-Questions about this policy can be sent to the developer email address shown on the app's
+Questions about this policy can be sent to Commit Ventures LLC at the developer email address shown on the app's
 Google Play listing, under "App support".

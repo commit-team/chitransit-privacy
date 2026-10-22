@@ -1,7 +1,7 @@
-# ChiTransit legal documents
+# Loopgoer legal documents
 
 This repository exists for one reason: Google Play requires a **publicly reachable URL** for an
-app's privacy policy, and the ChiTransit source repository is private. The terms of service now
+app's privacy policy, and the Loopgoer source repository is private. The terms of service now
 live here too, for the same reason — the app links to both from its Settings screen.
 
 | Document | Source | Published at |
