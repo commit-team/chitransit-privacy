@@ -1,23 +1,15 @@
-# Loopgoer legal documents
+# LoopGoer legal documents - moved
 
-This repository exists for one reason: Google Play requires a **publicly reachable URL** for an
-app's privacy policy, and the Loopgoer source repository is private. The terms of service now
-live here too, for the same reason — the app links to both from its Settings screen.
+The LoopGoer privacy policy and terms of service now live on **loopgoer.com**, published by Netlify from the
+`commit-team/commit-chicago-transit-website` repository:
 
-| Document | Source | Published at |
+| Document | Current address | Old address here (redirects) |
 |---|---|---|
-| Privacy Policy | `index.md` | <https://commit-team.github.io/chitransit-privacy/> |
-| Terms of Service | `terms.md` | <https://commit-team.github.io/chitransit-privacy/terms/> |
+| Privacy Policy | <https://loopgoer.com/privacy/> | <https://commit-team.github.io/chitransit-privacy/> |
+| Terms of Service | <https://loopgoer.com/terms/> | <https://commit-team.github.io/chitransit-privacy/terms/> |
 
-Both files are the canonical copy — edit them here, not anywhere else. GitHub Pages rebuilds on
-push, usually within a minute.
+This repository is kept only so the old addresses keep working: older app builds and earlier store listings link to
+them. Both pages send the reader straight to loopgoer.com and are marked `noindex`, so search engines drop them.
 
-`terms.md` sets `permalink: /terms/` in its front matter. Without it Jekyll would serve the page
-at `/terms.html`, and the app and the privacy policy both link to the trailing-slash form.
-
-Both URLs are referenced by the Play Console listing and by the app itself, so treat them as
-permanent. Renaming this repository, changing a permalink, or turning Pages off breaks the store
-listing and leaves a dead link inside a shipped app that cannot be force-updated.
-
-`_config.yml`'s `title` and `description` are site-level and this theme prints them on every
-page, so neither can name a single document. Each document names itself in its own first line.
+**Do not edit the legal text here** - edit it in the website repository. Do not rename this repository or turn Pages
+off: GitHub does not redirect a renamed repository's Pages site, so every old link would break.
